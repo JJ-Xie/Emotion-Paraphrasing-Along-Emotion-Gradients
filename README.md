@@ -6,7 +6,7 @@ In today's rapidly expanding internet age, more and more of our conversations an
 
 It is with this is mind, that we decided to tackle the task of Emotion Paraphrasing Along Emotion Gradients. This task involves inputting a short text and paraphrasing it in a way that maintains its meaning but changes its overall tone. For example, this could involve changing a text from anger to annoyance. 
 
-Our approach involves compiling data sets from popular paraphrasing corpuses and using them to train text-to-text transformers using multitask training. The models then can be used to generate paraphrases following an Emotion-Transition Graph that we proposed. The details to the implementation to our approach can be found in this repository. 
+Our approach involves compiling data sets from popular paraphrasing corpuses and using them to train text-to-text transformers using multitask training. The models then can be used to generate paraphrases following an Emotion-Transition Graph that we proposed. The details to the implementation to our approach can be found in this repository. For more details on the experiment, please look at the paper linked in this repository.
 
 ## About the Repository 
 This repository contains the step-by-step procedural programs needed to perform the task of Emotion Paraphrasing Along Emotion Gradients as described in the paper. The contents of this repository include:
@@ -21,7 +21,7 @@ This repository contains the step-by-step procedural programs needed to perform 
 
 5. `transition-dataset-compilation.ipynb`: Filters the mix, twitter, and combined data sets for only paraphrasing pairs that follow emotion gradients in the Emotion Transition Graph explained int he paper.
 
-6. `fine-tuning-models.ipynb`: Trains T5-base models from the [SimpleTransformers](https://simpletransformers.ai/) package using the compiled data sets.
+6. `fine-tuning-models.ipynb`: Trains T5-base models from the [SimpleTransformers](https://simpletransformers.ai/) package using the compiled data sets. The training can be done using either the regular or limited training function. Regular trains the model on the larger training set and limited trrains the model on the smaller testing set.
 
 7. `model-prediction-generation.ipynb`: Generates predictions on evaluation sets using the trained T5 models.
 
@@ -37,5 +37,14 @@ This repository contains the step-by-step procedural programs needed to perform 
 pip3 install pandas
 pip3 install evaluate
 ```
+
+#### Running the Experiment
+The order of execution of the implementation is as specified above. 
+
+The data set compilation and emotion labeling done in step 1-4 do not require any user intervention
+
+Step 5 allows the experimenter to choose what data set to train a T5-base model on and the training method (regular or limited) as well as the number of training epochs.
+
+Steps 6-8 allow the experiment to choose the model and the evaluation set in order to generate and score predictions to evaluate the performance of the model on various evaluation sets.
 
 
