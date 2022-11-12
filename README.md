@@ -1,7 +1,12 @@
 # Emotion-Paraphrasing-Along-Emotion-Gradients
 Justin Xie 2022
 
-## About the Project
+## About the Experiment
+In today's rapidly expanding internet age, more and more of our conversations and communications are done online. Messenger apps such as iMessage or chat rooms such as Discord or Reddit allow users to rapidly and efficiently communicate with each other. However, this new generation of communication comes at a cost. Text online is not accompanied by hand gestures or variations in intonation to signal intensity of emotion. This can lead to miscommunications or misunderstandings as users struggle to decipher what others actually want to convey. In addition, people, in the heat of the moment, often fail to take time to think about their words. They may send overly intense emotions which can lead to unintended consequences.
+
+It is with this is mind, that we decided to tackle the task of Emotion Paraphrasing Along Emotion Gradients. This task involves inputting a short text and paraphrasing it in a way that maintains its meaning but changes its overall tone. For example, this could involve changing a text from anger to annoyance. 
+
+Our approach involves compiling data sets from popular paraphrasing corpuses and using them to train text-to-text transformers using multitask training. The models then can be used to generate paraphrases following an Emotion-Transition Graph that we proposed. The details to the implementation to our approach can be found in this repository. 
 
 ## About the Repository 
 This repository contains the step-by-step procedural programs needed to perform the task of Emotion Paraphrasing Along Emotion Gradients as described in the paper. The contents of this repository include:
@@ -18,6 +23,6 @@ This repository contains the step-by-step procedural programs needed to perform 
 
 6. `fine-tuning-models.ipynb`: Trains T5-base models from the [SimpleTransformers](https://simpletransformers.ai/) package using the compiled data sets.
 
-7. `model-prediction-generation`: Generates predictions on evaluation sets using the trained T5 models.
+7. `model-prediction-generation.ipynb`: Generates predictions on evaluation sets using the trained T5 models.
 
-8. `model-prediction-scoring`: Uses GoEmotions to label generated predictions. Uses the generated predictions and their corresponding labeled emotions on [HuggingFace Evaluation Metrics](https://huggingface.co/evaluate-metric) to score the emotion transition and paraphrasing capabilities of the graph.
+8. `model-prediction-scoring.ipynb`: Uses GoEmotions to label generated predictions. Uses the generated predictions and their corresponding labeled emotions on [HuggingFace Evaluation Metrics](https://huggingface.co/evaluate-metric) to score the emotion transition and paraphrasing capabilities of the graph.
