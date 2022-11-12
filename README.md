@@ -26,3 +26,16 @@ This repository contains the step-by-step procedural programs needed to perform 
 7. `model-prediction-generation.ipynb`: Generates predictions on evaluation sets using the trained T5 models.
 
 8. `model-prediction-scoring.ipynb`: Uses GoEmotions to label generated predictions. Uses the generated predictions and their corresponding labeled emotions on [HuggingFace Evaluation Metrics](https://huggingface.co/evaluate-metric) to score the emotion transition and paraphrasing capabilities of the graph.
+
+## Usage of this Repository
+
+#### Prerequisites for Execution
+1. You will need to install [Python](https://www.python.org/) 3.7.8 on your computer
+2. Parts of the implementation require the [Pandas](https://pandas.pydata.org/), [HuggingFace Evaluation Metrics](https://huggingface.co/evaluate-metric), [SimpleTransformers](https://simpletransformers.ai/), and [Transformers](https://huggingface.co/docs/transformers/main/en/index) packages to run. The SimpleTransformers and Transformers packages will be installed in the Jupyter notebook implementation files due to conflicting Transformer versions. You will need to install the Pandas and Evaluation packages separately. 
+
+```bash
+pip3 install pandas
+pip3 install evaluate
+```
+
+
