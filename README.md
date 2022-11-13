@@ -42,7 +42,9 @@ pip3 install evaluate
 #### Running the Experiment
 The order of execution of the implementation is as specified above. 
 
-The data set compilation and emotion labeling done in step 1-4 do not require any user intervention
+To start, unzip both the mix folder and halves of the twitter data set.
+
+The data set compilation and emotion labeling done in steps 1-4 do not require any user intervention.
 
 Step 5 allows the experimenter to choose what data set to train a T5-base model on and the training method (regular or limited) as well as the number of training epochs.
 
