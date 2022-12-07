@@ -1,0 +1,139 @@
+Emotion statistics for emotion-labeled-data/mix/mix-testing_t5.tsv training set (input, target): 
+
+  neutral: 0, 0
+  amusement: 3, 2
+  excitement: 12, 12
+  joy: 9, 8
+  love: 38, 37
+  optimism: 23, 34
+  desire: 21, 18
+  caring: 0, 0
+  pride: 0, 0
+  admiration: 7, 11
+  gratitude: 6, 4
+  relief: 0, 0
+  approval: 23, 14
+  realization: 49, 43
+  surprise: 9, 12
+  curiosity: 1207, 1239
+  confusion: 932, 951
+  fear: 20, 16
+  nervousness: 21, 14
+  remorse: 9, 8
+  embarrassment: 10, 3
+  disappointment: 37, 22
+  sadness: 32, 40
+  grief: 0, 0
+  disgust: 23, 17
+  anger: 25, 25
+  annoyance: 81, 62
+  disapproval: 9, 14
+
+  realization to approval: 8
+  admiration to approval: 1
+  realization to fear: 1
+  approval to realization: 14
+  fear to realization: 3
+  realization to remorse: 2
+  annoyance to admiration: 1
+  disappointment to sadness: 6
+  sadness to disappointment: 3
+  approval to admiration: 2
+  realization to disappointment: 4
+  love to admiration: 1
+  disgust to admiration: 1
+  admiration to annoyance: 1
+  sadness to joy: 1
+  admiration to realization: 1
+  disappointment to realization: 1
+  approval to remorse: 1
+  approval to desire: 1
+  annoyance to disappointment: 3
+  anger to approval: 1
+  annoyance to disapproval: 2
+  optimism to approval: 2
+  approval to optimism: 1
+  curiosity to confusion: 906
+  confusion to curiosity: 902
+  realization to curiosity: 22
+  love to curiosity: 36
+  curiosity to sadness: 26
+  surprise to curiosity: 8
+  gratitude to curiosity: 6
+  curiosity to love: 35
+  disapproval to curiosity: 9
+  curiosity to excitement: 11
+  curiosity to annoyance: 47
+  confusion to realization: 5
+  curiosity to anger: 19
+  annoyance to curiosity: 58
+  disappointment to confusion: 6
+  desire to curiosity: 20
+  annoyance to confusion: 8
+  curiosity to nervousness: 13
+  confusion to sadness: 6
+  fear to curiosity: 14
+  disappointment to curiosity: 22
+  nervousness to curiosity: 13
+  curiosity to optimism: 31
+  curiosity to remorse: 5
+  curiosity to disappointment: 10
+  annoyance to disgust: 2
+  joy to curiosity: 9
+  curiosity to gratitude: 4
+  curiosity to joy: 7
+  curiosity to disapproval: 10
+  optimism to confusion: 2
+  sadness to curiosity: 25
+  confusion to annoyance: 6
+  excitement to curiosity: 12
+  curiosity to fear: 13
+  optimism to curiosity: 19
+  realization to confusion: 12
+  embarrassment to curiosity: 8
+  curiosity to surprise: 11
+  remorse to curiosity: 9
+  confusion to nervousness: 1
+  disgust to curiosity: 20
+  curiosity to desire: 17
+  annoyance to anger: 3
+  curiosity to disgust: 13
+  curiosity to realization: 18
+  anger to curiosity: 16
+  disappointment to anger: 1
+  fear to confusion: 2
+  amusement to curiosity: 3
+  confusion to disgust: 1
+  nervousness to fear: 1
+  approval to curiosity: 4
+  confusion to disapproval: 2
+  curiosity to admiration: 6
+  annoyance to excitement: 1
+  nervousness to confusion: 7
+  confusion to optimism: 2
+  desire to confusion: 1
+  confusion to anger: 1
+  anger to disgust: 1
+  curiosity to amusement: 2
+  curiosity to approval: 2
+  confusion to love: 2
+  admiration to curiosity: 4
+  disappointment to annoyance: 1
+  embarrassment to annoyance: 1
+  confusion to disappointment: 2
+  curiosity to embarrassment: 1
+  anger to embarrassment: 1
+  anger to annoyance: 3
+  sadness to confusion: 3
+  anger to sadness: 1
+  annoyance to sadness: 1
+  confusion to fear: 1
+  disgust to annoyance: 2
+  annoyance to realization: 1
+  annoyance to embarrassment: 1
+  fear to annoyance: 1
+  love to confusion: 1
+  anger to confusion: 2
+  embarrassment to anger: 1
+  surprise to confusion: 1
+  confusion to surprise: 1

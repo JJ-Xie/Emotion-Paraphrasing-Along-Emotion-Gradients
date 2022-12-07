@@ -1,0 +1,234 @@
+Emotion statistics for emotion-labeled-data/twit0.825/twit0.825-training_t5.tsv training set (input, target): 
+
+  neutral: 0, 0
+  amusement: 6, 8
+  excitement: 7, 10
+  joy: 10, 14
+  love: 8, 13
+  optimism: 41, 32
+  desire: 11, 9
+  caring: 8, 7
+  pride: 0, 1
+  admiration: 41, 80
+  gratitude: 7, 14
+  relief: 0, 0
+  approval: 95, 40
+  realization: 51, 35
+  surprise: 27, 35
+  curiosity: 168, 195
+  confusion: 112, 87
+  fear: 23, 11
+  nervousness: 2, 10
+  remorse: 6, 5
+  embarrassment: 2, 6
+  disappointment: 29, 38
+  sadness: 36, 16
+  grief: 0, 0
+  disgust: 28, 25
+  anger: 16, 17
+  annoyance: 62, 93
+  disapproval: 48, 43
+
+  desire to admiration: 1
+  curiosity to annoyance: 15
+  approval to admiration: 31
+  disappointment to annoyance: 13
+  admiration to approval: 10
+  annoyance to disappointment: 8
+  realization to approval: 7
+  annoyance to curiosity: 23
+  confusion to curiosity: 88
+  confusion to disapproval: 8
+  confusion to annoyance: 4
+  desire to optimism: 1
+  sadness to disgust: 6
+  curiosity to surprise: 16
+  disgust to curiosity: 2
+  admiration to annoyance: 9
+  surprise to curiosity: 9
+  fear to nervousness: 8
+  curiosity to disapproval: 10
+  confusion to admiration: 4
+  approval to love: 3
+  admiration to disgust: 3
+  approval to curiosity: 8
+  curiosity to approval: 3
+  amusement to joy: 4
+  curiosity to confusion: 67
+  disapproval to annoyance: 16
+  approval to optimism: 8
+  fear to optimism: 1
+  approval to desire: 4
+  annoyance to amusement: 3
+  realization to curiosity: 15
+  disapproval to confusion: 8
+  caring to anger: 2
+  sadness to desire: 2
+  annoyance to admiration: 5
+  annoyance to disgust: 5
+  approval to disapproval: 4
+  confusion to embarrassment: 1
+  optimism to approval: 10
+  approval to realization: 14
+  admiration to gratitude: 1
+  optimism to curiosity: 8
+  annoyance to surprise: 5
+  anger to annoyance: 6
+  sadness to remorse: 2
+  optimism to confusion: 1
+  disapproval to curiosity: 5
+  curiosity to remorse: 2
+  optimism to fear: 1
+  disappointment to confusion: 3
+  realization to sadness: 4
+  fear to disgust: 3
+  disgust to anger: 6
+  approval to confusion: 2
+  realization to disapproval: 7
+  disgust to annoyance: 10
+  optimism to excitement: 3
+  sadness to curiosity: 9
+  curiosity to realization: 6
+  sadness to disapproval: 1
+  curiosity to disappointment: 8
+  surprise to optimism: 1
+  optimism to disappointment: 7
+  disgust to remorse: 1
+  approval to gratitude: 4
+  disgust to disapproval: 4
+  optimism to admiration: 3
+  curiosity to fear: 3
+  curiosity to optimism: 11
+  realization to admiration: 6
+  curiosity to gratitude: 2
+  joy to excitement: 5
+  amusement to admiration: 1
+  surprise to admiration: 5
+  embarrassment to admiration: 1
+  curiosity to love: 3
+  surprise to gratitude: 1
+  optimism to surprise: 3
+  disapproval to sadness: 3
+  realization to amusement: 1
+  curiosity to admiration: 12
+  desire to fear: 1
+  remorse to sadness: 1
+  anger to disgust: 5
+  disappointment to curiosity: 1
+  surprise to anger: 2
+  gratitude to admiration: 2
+  disappointment to realization: 2
+  anger to curiosity: 4
+  nervousness to annoyance: 1
+  optimism to realization: 1
+  disapproval to approval: 5
+  disgust to optimism: 2
+  excitement to joy: 4
+  joy to admiration: 4
+  annoyance to disapproval: 7
+  admiration to surprise: 2
+  curiosity to joy: 1
+  desire to curiosity: 4
+  annoyance to anger: 2
+  curiosity to amusement: 1
+  confusion to surprise: 2
+  approval to amusement: 1
+  disgust to desire: 1
+  admiration to realization: 1
+  surprise to amusement: 1
+  desire to embarrassment: 1
+  approval to annoyance: 3
+  disappointment to approval: 1
+  optimism to sadness: 1
+  caring to curiosity: 4
+  curiosity to sadness: 2
+  disapproval to disappointment: 4
+  approval to fear: 2
+  desire to approval: 1
+  sadness to gratitude: 1
+  love to confusion: 1
+  approval to anger: 1
+  admiration to caring: 2
+  realization to disappointment: 2
+  fear to curiosity: 7
+  sadness to annoyance: 2
+  fear to sadness: 2
+  disapproval to disgust: 1
+  sadness to disappointment: 3
+  gratitude to annoyance: 1
+  surprise to annoyance: 4
+  love to realization: 2
+  realization to surprise: 1
+  embarrassment to annoyance: 1
+  remorse to annoyance: 1
+  approval to caring: 4
+  remorse to realization: 1
+  optimism to annoyance: 1
+  admiration to optimism: 4
+  desire to realization: 1
+  admiration to love: 2
+  surprise to realization: 3
+  realization to embarrassment: 2
+  love to admiration: 1
+  gratitude to embarrassment: 1
+  sadness to admiration: 3
+  sadness to optimism: 1
+  excitement to optimism: 1
+  fear to realization: 1
+  disappointment to sadness: 3
+  admiration to joy: 2
+  admiration to curiosity: 4
+  curiosity to disgust: 1
+  realization to confusion: 2
+  excitement to approval: 1
+  love to annoyance: 2
+  sadness to fear: 1
+  gratitude to excitement: 2
+  sadness to surprise: 2
+  remorse to love: 1
+  approval to disappointment: 4
+  surprise to love: 1
+  curiosity to anger: 2
+  annoyance to realization: 1
+  annoyance to confusion: 1
+  remorse to curiosity: 2
+  admiration to confusion: 1
+  excitement to surprise: 1
+  realization to joy: 2
+  confusion to love: 1
+  love to curiosity: 1
+  gratitude to approval: 1
+  curiosity to desire: 1
+  sadness to realization: 1
+  disapproval to anger: 2
+  realization to annoyance: 2
+  disappointment to amusement: 1
+  love to surprise: 1
+  disgust to realization: 1
+  disgust to fear: 1
+  optimism to joy: 1
+  nervousness to gratitude: 1
+  amusement to annoyance: 1
+  confusion to disappointment: 2
+  confusion to gratitude: 1
+  disappointment to disapproval: 2
+  disapproval to optimism: 1
+  fear to confusion: 1
+  disappointment to nervousness: 1
+  sadness to love: 2
+  annoyance to embarrassment: 1
+  caring to approval: 1
+  approval to surprise: 2
+  curiosity to caring: 1
+  curiosity to nervousness: 1
+  disapproval to fear: 2
+  joy to curiosity: 1
+  anger to gratitude: 1
+  desire to annoyance: 1
+  disappointment to gratitude: 1
+  annoyance to gratitude: 1
+  disappointment to disgust: 1
+  optimism to pride: 1
+  caring to desire: 1
+  confusion to optimism: 1
+  disapproval to admiration: 1

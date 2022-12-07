@@ -1,0 +1,25 @@
+---- Scoring Predictions ----
+Model: regular-mix-3epochs-bart
+
+Test Set: mix
+
+'Exact Score'
+0.329623944742901
+
+'BLEU Score'
+0.2398584788607752
+
+'Google BLEU Score'
+0.2676963888413486
+
+'ROUGE1 Score'
+0.5503184816989195
+
+'ROUGE2 Score'
+0.31993416062094554
+
+'ROUGEL Score'
+0.49952200929448043
+
+'METEOR Score'
+0.5199564548069057

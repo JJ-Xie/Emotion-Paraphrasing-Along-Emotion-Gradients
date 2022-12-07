@@ -1,0 +1,39 @@
+Emotion statistics for emotion-labeled-data/twit0.825-transition/twit0.825-transition-testing_t5.tsv training set (input, target): 
+
+  neutral: 0, 0
+  amusement: 0, 2
+  excitement: 1, 0
+  joy: 1, 0
+  love: 0, 0
+  optimism: 0, 0
+  desire: 0, 0
+  caring: 0, 0
+  pride: 0, 0
+  admiration: 0, 0
+  gratitude: 0, 0
+  relief: 0, 0
+  approval: 0, 0
+  realization: 0, 0
+  surprise: 1, 0
+  curiosity: 0, 0
+  confusion: 0, 1
+  fear: 1, 0
+  nervousness: 0, 1
+  remorse: 0, 0
+  embarrassment: 0, 0
+  disappointment: 0, 0
+  sadness: 0, 0
+  grief: 0, 0
+  disgust: 3, 1
+  anger: 3, 0
+  annoyance: 0, 14
+  disapproval: 9, 0
+
+  anger to annoyance: 2
+  anger to disgust: 1
+  disapproval to annoyance: 9
+  disgust to annoyance: 3
+  fear to nervousness: 1
+  excitement to amusement: 1
+  joy to amusement: 1
+  surprise to confusion: 1

@@ -1,0 +1,499 @@
+From "predictions-data/regular-mix-3epochs/mix-prediction_emo.tsv"
+(row.target_emo in ['fear', 'nervousness', 'remorse', 'embarrassment', 'disappointment', 'sadness', 'grief', 'disgust', 'anger', 'annoyance', 'disapproval'])
+
+
+row 14
+It was rebuilt in 1940 during the Manchester flash and finally destroyed.
+disappointment
+It was rebuilt and finally destroyed during the Manchester Blitz in 1940.
+sadness
+It was destroyed during the Manchester flash in 1940.
+sadness
+
+
+row 49
+That fire devastated timber on the reservation, charred 469,000 acres and destroyed 491 homes in surrounding communities.
+disappointment
+That fire devastated the reservation, a nearby national forest and several communities, burning 469,000 acres and destroying 491 homes.
+sadness
+The fire destroyed the forests and charred 490 homes in surrounding communities.
+sadness
+
+
+row 109
+What was the most unnecessary character in Dilwale and why?
+curiosity
+What is the most irritating character in Dilwale according to you?
+annoyance
+What are the most annoying characters in Dilwale?
+annoyance
+
+
+row 112
+How do I Break up with fiancé?
+curiosity
+How can I break up with my girlfriend?
+sadness
+How can I break up with my girlfriend?
+sadness
+
+
+row 119
+What should I do to overcome my anger?
+curiosity
+What do I do when I can't control my anger?
+anger
+How can I control my anger?
+anger
+
+
+row 154
+What should I do for controlling anger?
+curiosity
+How can I control my anger? 
+anger
+How can anger control?
+anger
+
+
+row 159
+How do I overcome stress anxiety before exams?
+curiosity
+How should I overcome anxiety before prelims examination 2016?
+nervousness
+How can I overcome anxiety before exams?
+nervousness
+
+
+row 311
+What is the solution to control anger?
+curiosity
+What do I do when I can't control my anger?
+anger
+How can a person control anger?
+anger
+
+
+row 320
+Why are people generally so selfish?
+confusion
+Why are people so selfish and hypocritical?
+annoyance
+People get selfish every time I try to do something good?
+annoyance
+
+
+row 326
+How does one get over anxiety?
+curiosity
+How do I get over anxiety?
+nervousness
+How can I get over my anxiety?
+nervousness
+
+
+row 438
+What are some of the weirdest dreams you've had?
+curiosity
+What's the weirdest dream you've ever had that you can remember?
+annoyance
+What are the weirdest/creepiest dreams you have ever had?
+annoyance
+
+
+row 452
+What is the Worst book ever written?
+curiosity
+What is the worst book ever written and published?
+disgust
+What is the worst book you've ever read?
+disgust
+
+
+row 556
+What should I do to overcome my anger?
+curiosity
+How can a person control anger?
+anger
+How can I control my anger?
+anger
+
+
+row 574
+What are good ways to deal with anxiety?
+curiosity
+How can I deal with stress and anxiety?
+nervousness
+How can I get rid of my anxiety?
+nervousness
+
+
+row 580
+How do you control anxiety?
+curiosity
+How do I control my anxiety?
+nervousness
+How can I control my anxiety?
+nervousness
+
+
+row 584
+What are the five worst movies ever made?
+annoyance
+What are the worst movies ever made?
+disgust
+What's the worst movie you have ever seen?
+disgust
+
+
+row 640
+How do you control your anger?
+curiosity
+What do I do when I can't control my anger?
+anger
+What should I do to control anger?
+anger
+
+
+row 648
+What are good ways to deal with anxiety?
+curiosity
+How do I deal with anxiety?
+nervousness
+How can I stop my anxiety?
+nervousness
+
+
+row 734
+Who is the worst person in history and why?
+curiosity
+Who is the worst person in the history of the world?
+disgust
+Who is the worst person in history?
+disgust
+
+
+row 837
+What are the things you regret not doing?
+curiosity
+What is the one thing you regret not doing?
+remorse
+What was one regret you have done in your life and regret it alot?
+remorse
+
+
+row 907
+What is the weirdest question you have come across on Quora?
+curiosity
+What are some of the weirdest questions asked in Quora?
+annoyance
+What are some of the weirdest questions you have seen on Quora?
+annoyance
+
+
+row 980
+How do I stop hating a person?
+confusion
+Can you stop hating a person that you really hate?
+anger
+How can I stop hating someone?
+anger
+
+
+row 1034
+India: What are things that make Indians sad? And what are you doing about it?
+curiosity
+What things make Indians sad?
+sadness
+Indians: What are some things that make Indians sad?
+sadness
+
+
+row 1048
+Which are some of the most underrated hollywood movies?
+curiosity
+Which is the most underrated Hollywood movie ever?
+annoyance
+What are the most underrated Hollywood movies?
+annoyance
+
+
+row 1114
+Why are Painful memories also nostalgic?
+curiosity
+Can painful memories be nostalgic as well?
+sadness
+Are painful memories nostalgic?
+sadness
+
+
+row 1144
+Why is there so much hatred towards Islam even though it is the fastest growing religion?
+curiosity
+Why is there so much hatred towards Islam?
+anger
+Why so much hatred is against Islam?
+anger
+
+
+row 1154
+How do I reduce my anger?
+curiosity
+How can I control my anger? 
+anger
+How can I control my anger?
+anger
+
+
+row 1256
+What was the most unnecessary character in Dilwale and why?
+curiosity
+What's the most annoying and unnecessary character in Dilwale and why?
+annoyance
+What are the most annoying characters in Dilwale?
+annoyance
+
+
+row 1266
+What are the worst companies that you have ever worked?
+curiosity
+What is the worst company you have ever worked for?
+disgust
+What was the worst company you have ever worked?
+disgust
+
+
+row 1284
+How can someone control their anger?
+curiosity
+What should I do to control my anger?
+anger
+How can a person control anger?
+anger
+
+
+row 1293
+Why India is against CPEC?
+confusion
+Why is India frustrated and upset by Pakistan CPEC?
+disappointment
+Why are India frustrated and upset by CPEC?
+disappointment
+
+
+row 1299
+What is most embrassing moment of your life?
+curiosity
+What is the most embarrassed you have ever felt in your life?
+embarrassment
+What’s most embarrassing moment of your life?
+embarrassment
+
+
+row 1315
+What's the worst hotel in New Delhi?
+curiosity
+New Delhi, India: What's the worst hotel in New Delhi?
+disgust
+What are the worst hotels to stay in New Delhi?
+disgust
+
+
+row 1325
+How do I cure math anxiety?
+curiosity
+How do I get rid of my math anxiety?
+nervousness
+How can I heal my own anxiety?
+nervousness
+
+
+row 1399
+Which is the most underrated Hollywood movies in the recent times?
+curiosity
+What are the most underrated Hollywood movies and why do you think they're worth watching?
+annoyance
+Which is the most underrated Hollywood movie?
+annoyance
+
+
+row 1643
+How do I control my anger and have patience?
+curiosity
+How can I control my anger? 
+anger
+How can I control anger?
+anger
+
+
+row 1720
+How do I get rid of the pain and suffering from unrequited love?
+curiosity
+How can I get rid of the pain of unrequited love?
+sadness
+How can I get rid of the pain and suffering?
+sadness
+
+
+row 1736
+Which is the creepiest photo ever?
+curiosity
+What are the creepiest photos ever?
+fear
+What are the creepiest photos ever?
+fear
+
+
+row 1947
+What are the creepiest dreams you ever had?
+fear
+What are the weirdest/creepiest dreams you have ever had?
+annoyance
+What's the weirdest dream you''ve ever had that you can remember?
+annoyance
+
+
+row 1991
+How do I force myself to stop loving him?
+confusion
+How can I stop loving someone?
+sadness
+How can I stop loving my girlfriend?
+sadness
+
+
+row 2069
+What would be the best way to control anger?
+curiosity
+What should I do to control my anger?
+anger
+How can one control anger?
+anger
+
+
+row 2147
+How can someone control their anger?
+curiosity
+How can I control my anger? 
+anger
+What should I do to control my anger?
+anger
+
+
+row 2153
+I have started to hate myself. What should I do?
+embarrassment
+I hate myself. What should I do?
+anger
+I hate myself. What should I do?
+anger
+
+
+row 2174
+What should one do to get cured if anxiety?
+curiosity
+How do I get over anxiety?
+nervousness
+How can I cure my anxiety?
+nervousness
+
+
+row 2284
+What is the best way to stop getting angry?
+curiosity
+How can I stop getting angry?
+anger
+How can I stop getting so angry?
+anger
+
+
+row 2286
+Which movie(s) made you cry?
+curiosity
+Which is/are the movie(s) which made you cry?
+sadness
+What are the movies made you cry?
+sadness
+
+
+row 2302
+What is the nastiest thing you've ever had to eat?
+curiosity
+What's the single worst thing you've ever had to eat?
+annoyance
+What is the weirdest thing you've had to eat?
+annoyance
+
+
+row 2412
+How do I stop feeling like I'm not good enough for somebody?
+confusion
+How can I stop feeling like I'm not good enough?
+disappointment
+How can I stop feeling like i'm not good enough for someone?
+disappointment
+
+
+row 2448
+What should you do when you feel like a loser?
+annoyance
+How can I keep living when I I feel like a total loser?
+disappointment
+How can you stop feeling like a loser?
+disappointment
+
+
+row 2456
+Which is the best way to control anger?
+curiosity
+What should I do to control my anger?
+anger
+How can a person control anger?
+anger
+
+
+row 2503
+How do you control your anger?
+curiosity
+What should I do to control my anger?
+anger
+How can a person control anger?
+anger
+
+
+row 2512
+Can an apology message be used to get an ex boyfriend back?
+curiosity
+Can writing an ex boyfriend an apology message be a way to get them back?
+remorse
+What does an apology message mean and how can I get back my ex boyfriend?
+remorse
+
+
+row 2527
+Who is bollywood's most overrated film maker?
+curiosity
+Who is the most overrated director in india?
+annoyance
+Who is the most overrated film maker?
+annoyance
+
+
+row 2601
+Why am I stupid?
+anger
+Why am I so stupid?
+annoyance
+Why am I so stupid?
+annoyance
+
+
+row 2602
+Why do people use Quora when they could easily find the answer in a quick Google search?
+curiosity
+Why do people ask stupid questions on Quora that could be easily answered by Google?
+annoyance
+Why do people ask stupid questions on Quora that can be easily be easily answered by Google?
+annoyance
+
+Total Matches Found: 55

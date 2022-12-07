@@ -1,0 +1,37 @@
+Emotion statistics for emotion-labeled-data/mix-transition/mix-transition-testing_t5.tsv training set (input, target): 
+
+  neutral: 0, 0
+  amusement: 0, 0
+  excitement: 0, 0
+  joy: 0, 0
+  love: 0, 0
+  optimism: 0, 0
+  desire: 0, 0
+  caring: 0, 0
+  pride: 0, 0
+  admiration: 0, 0
+  gratitude: 0, 0
+  relief: 0, 0
+  approval: 14, 0
+  realization: 0, 14
+  surprise: 1, 0
+  curiosity: 0, 0
+  confusion: 0, 1
+  fear: 0, 0
+  nervousness: 0, 0
+  remorse: 0, 0
+  embarrassment: 0, 0
+  disappointment: 0, 3
+  sadness: 3, 0
+  grief: 0, 0
+  disgust: 2, 1
+  anger: 4, 0
+  annoyance: 0, 5
+  disapproval: 0, 0
+
+  approval to realization: 14
+  sadness to disappointment: 3
+  anger to disgust: 1
+  anger to annoyance: 3
+  disgust to annoyance: 2
+  surprise to confusion: 1

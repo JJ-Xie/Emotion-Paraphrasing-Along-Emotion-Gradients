@@ -1,0 +1,42 @@
+Emotion statistics for emotion-labeled-data/combined-transition/combined-transition-testing_t5.tsv training set (input, target): 
+
+  neutral: 0, 0
+  amusement: 0, 2
+  excitement: 1, 2
+  joy: 3, 0
+  love: 0, 0
+  optimism: 0, 0
+  desire: 0, 0
+  caring: 0, 0
+  pride: 0, 0
+  admiration: 0, 0
+  gratitude: 0, 0
+  relief: 0, 0
+  approval: 19, 0
+  realization: 0, 19
+  surprise: 2, 0
+  curiosity: 0, 0
+  confusion: 0, 2
+  fear: 4, 0
+  nervousness: 0, 4
+  remorse: 0, 0
+  embarrassment: 0, 0
+  disappointment: 0, 4
+  sadness: 4, 0
+  grief: 0, 0
+  disgust: 4, 1
+  anger: 7, 0
+  annoyance: 0, 15
+  disapproval: 5, 0
+
+  approval to realization: 19
+  sadness to disappointment: 4
+  anger to disgust: 1
+  anger to annoyance: 6
+  disgust to annoyance: 4
+  surprise to confusion: 2
+  joy to excitement: 2
+  fear to nervousness: 4
+  disapproval to annoyance: 5
+  excitement to amusement: 1
+  joy to amusement: 1
