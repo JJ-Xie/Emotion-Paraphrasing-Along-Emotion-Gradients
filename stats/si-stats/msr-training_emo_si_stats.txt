@@ -1,0 +1,14 @@
+
+# of positive emotion with negative sentiment score: 25 out of 25360
+# of negative emotion with positive sentiment score: 23 out of 25360
+
+# of Postive Input and Target Labels with Different Sentiment Scores: 16
+# of Negative Input and Target Labels with Different Sentiment Scores: 22
+# of Ambiguous Input and Target Labels with Different Sentiment Scores: 0
+# of Neutral Input and Target Labels with Different Sentiment Scores: 90
+
+# of positive Ekmen emotion with negative sentiment score: 46 out of 25360
+# of negative Ekmen emotion with positive sentiment score: 13 out of 25360
+
+# of emotions matching transition graphs and with increasing intensities: 54
+# of emotions matching transition graphs and with decreasing intensities: 47
