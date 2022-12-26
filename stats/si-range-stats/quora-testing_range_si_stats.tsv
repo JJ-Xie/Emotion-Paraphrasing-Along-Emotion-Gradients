@@ -1,0 +1,18 @@
+	Field	Value
+0	dataset name	quora-testing
+1	# of negative emo decreased	225
+2	# of negative emo increased	211
+3	# of positive emo decreased	98
+4	# of positive emo increased	101
+5	# of negative emo and si decreased	112
+6	# of negative emo and si increased	97
+7	# of positive emo and si decreased	49
+8	# of positive emo and si increased	41
+9	# of negative emo and si decreased on tg	19
+10	# of negative emo and si increased on tg	22
+11	# of positive emo and si decreased on tg	2
+12	# of positive emo and si increased on tg	1
+13	# of negative emo and si decreased on tg not neutral	2
+14	# of negative emo and si increased on tg not neutral	2
+15	# of positive emo and si decreased on tg not neutral	0
+16	# of positive emo and si increased on tg not neutral	0

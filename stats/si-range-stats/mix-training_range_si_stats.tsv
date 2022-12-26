@@ -1,0 +1,18 @@
+	Field	Value
+0	dataset name	mix-training
+1	# of negative emo decreased	875
+2	# of negative emo increased	853
+3	# of positive emo decreased	1325
+4	# of positive emo increased	1341
+5	# of negative emo and si decreased	361
+6	# of negative emo and si increased	329
+7	# of positive emo and si decreased	238
+8	# of positive emo and si increased	237
+9	# of negative emo and si decreased on tg	100
+10	# of negative emo and si increased on tg	95
+11	# of positive emo and si decreased on tg	101
+12	# of positive emo and si increased on tg	119
+13	# of negative emo and si decreased on tg not neutral	10
+14	# of negative emo and si increased on tg not neutral	12
+15	# of positive emo and si decreased on tg not neutral	7
+16	# of positive emo and si increased on tg not neutral	6

@@ -1,0 +1,18 @@
+	Field	Value
+0	dataset name	mix-testing
+1	# of negative emo decreased	302
+2	# of negative emo increased	258
+3	# of positive emo decreased	255
+4	# of positive emo increased	278
+5	# of negative emo and si decreased	131
+6	# of negative emo and si increased	94
+7	# of positive emo and si decreased	69
+8	# of positive emo and si increased	61
+9	# of negative emo and si decreased on tg	32
+10	# of negative emo and si increased on tg	26
+11	# of positive emo and si decreased on tg	25
+12	# of positive emo and si increased on tg	26
+13	# of negative emo and si decreased on tg not neutral	2
+14	# of negative emo and si increased on tg not neutral	2
+15	# of positive emo and si decreased on tg not neutral	0
+16	# of positive emo and si increased on tg not neutral	0
