@@ -1,18 +1,22 @@
 	Field	Value
 0	dataset name	google-training
-1	# of negative emo decreased	132
-2	# of negative emo increased	163
-3	# of positive emo decreased	912
-4	# of positive emo increased	927
-5	# of negative emo and si decreased	30
-6	# of negative emo and si increased	33
-7	# of positive emo and si decreased	66
-8	# of positive emo and si increased	81
-9	# of negative emo and si decreased on tg	25
-10	# of negative emo and si increased on tg	31
-11	# of positive emo and si decreased on tg	59
-12	# of positive emo and si increased on tg	74
-13	# of negative emo and si decreased on tg not neutral	0
-14	# of negative emo and si increased on tg not neutral	2
-15	# of positive emo and si decreased on tg not neutral	5
-16	# of positive emo and si increased on tg not neutral	6
+1	# of negative si decreased	628
+2	# of negative si increased	568
+3	# of positive si decreased	1317
+4	# of positive si increased	1370
+5	# of negative emo decreased	132
+6	# of negative emo increased	163
+7	# of positive emo decreased	912
+8	# of positive emo increased	927
+9	# of negative emo and si decreased	30
+10	# of negative emo and si increased	33
+11	# of positive emo and si decreased	66
+12	# of positive emo and si increased	81
+13	# of negative emo and si decreased on tg	25
+14	# of negative emo and si increased on tg	31
+15	# of positive emo and si decreased on tg	59
+16	# of positive emo and si increased on tg	74
+17	# of negative emo and si decreased on tg not neutral	0
+18	# of negative emo and si increased on tg not neutral	2
+19	# of positive emo and si decreased on tg not neutral	5
+20	# of positive emo and si increased on tg not neutral	6

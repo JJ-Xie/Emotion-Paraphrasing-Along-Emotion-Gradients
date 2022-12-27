@@ -1,18 +1,22 @@
 	Field	Value
 0	dataset name	msr-testing
-1	# of negative emo decreased	13
-2	# of negative emo increased	19
-3	# of positive emo decreased	36
-4	# of positive emo increased	53
-5	# of negative emo and si decreased	2
-6	# of negative emo and si increased	6
-7	# of positive emo and si decreased	12
-8	# of positive emo and si increased	13
-9	# of negative emo and si decreased on tg	1
-10	# of negative emo and si increased on tg	5
-11	# of positive emo and si decreased on tg	11
-12	# of positive emo and si increased on tg	12
-13	# of negative emo and si decreased on tg not neutral	0
-14	# of negative emo and si increased on tg not neutral	0
-15	# of positive emo and si decreased on tg not neutral	0
-16	# of positive emo and si increased on tg not neutral	0
+1	# of negative si decreased	88
+2	# of negative si increased	88
+3	# of positive si decreased	101
+4	# of positive si increased	90
+5	# of negative emo decreased	13
+6	# of negative emo increased	19
+7	# of positive emo decreased	36
+8	# of positive emo increased	53
+9	# of negative emo and si decreased	2
+10	# of negative emo and si increased	6
+11	# of positive emo and si decreased	12
+12	# of positive emo and si increased	13
+13	# of negative emo and si decreased on tg	1
+14	# of negative emo and si increased on tg	5
+15	# of positive emo and si decreased on tg	11
+16	# of positive emo and si increased on tg	12
+17	# of negative emo and si decreased on tg not neutral	0
+18	# of negative emo and si increased on tg not neutral	0
+19	# of positive emo and si decreased on tg not neutral	0
+20	# of positive emo and si increased on tg not neutral	0

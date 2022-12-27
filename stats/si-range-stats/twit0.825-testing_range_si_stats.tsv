@@ -1,18 +1,22 @@
 	Field	Value
 0	dataset name	twit0.825-testing
-1	# of negative emo decreased	355
-2	# of negative emo increased	380
-3	# of positive emo decreased	316
-4	# of positive emo increased	412
-5	# of negative emo and si decreased	116
-6	# of negative emo and si increased	202
-7	# of positive emo and si decreased	80
-8	# of positive emo and si increased	232
-9	# of negative emo and si decreased on tg	102
-10	# of negative emo and si increased on tg	189
-11	# of positive emo and si decreased on tg	75
-12	# of positive emo and si increased on tg	211
-13	# of negative emo and si decreased on tg not neutral	3
-14	# of negative emo and si increased on tg not neutral	4
-15	# of positive emo and si decreased on tg not neutral	0
-16	# of positive emo and si increased on tg not neutral	0
+1	# of negative si decreased	1130
+2	# of negative si increased	1516
+3	# of positive si decreased	637
+4	# of positive si increased	956
+5	# of negative emo decreased	355
+6	# of negative emo increased	380
+7	# of positive emo decreased	316
+8	# of positive emo increased	412
+9	# of negative emo and si decreased	116
+10	# of negative emo and si increased	202
+11	# of positive emo and si decreased	80
+12	# of positive emo and si increased	232
+13	# of negative emo and si decreased on tg	102
+14	# of negative emo and si increased on tg	189
+15	# of positive emo and si decreased on tg	75
+16	# of positive emo and si increased on tg	211
+17	# of negative emo and si decreased on tg not neutral	3
+18	# of negative emo and si increased on tg not neutral	4
+19	# of positive emo and si decreased on tg not neutral	0
+20	# of positive emo and si increased on tg not neutral	0
