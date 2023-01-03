@@ -31,6 +31,16 @@ This repository contains the step-by-step procedural programs needed to perform 
 
 `8-model-prediction-scoring.ipynb`: Uses GoEmotions to label generated predictions. Uses the generated predictions and their corresponding labeled emotions to score the emotion transition and paraphrasing capabilities of the fine-tuned models, on [HuggingFace Evaluation Metrics](https://huggingface.co/evaluate-metric).
 
+`dataset-filter-compilation`: Uses VADER intensity scores and GoEmotion groupings to create filter levels for dataset filtering.
+
+`new-fine-tuning`: Adds filter choices to the fine-tuning process and adds a section of code to fine-tune a GPT-2 model.
+
+`new-model-prediction-generation`: Adds filter choices to the prediction generation process and adds a section of code to generate prediction from a fine-tuned GPT-2 models.
+
+`new-model-prediction-scoring`: Adds filter choices to the prediction scoring process and adds a section of code to score predictions by a fine-tuned GPT-2 models.
+
+`few-shot-dataset-splitting`: Splits larger dataset into subsets for consistent few-shot fine-tuning.
+
 #### Other Files
 - `GoEmotions/`: Contains the GoEmotions Emotion Classifier with our modification. Details about GoEmotions can be found [here](https://arxiv.org/pdf/2005.00547.pdf)
 
