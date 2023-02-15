@@ -41,6 +41,10 @@ This repository contains the step-by-step procedural programs needed to perform 
 
 `few-shot-dataset-splitting`: Splits larger dataset into subsets for consistent few-shot fine-tuning.
 
+`sentiment-intensity`: Obtains emotion and sentiment statistics for datasets.
+
+`balance-datasets`: Balancing emotions and emotion-transition pairs in dataset.
+
 #### Other Files
 - `GoEmotions/`: Contains the GoEmotions Emotion Classifier with our modification. Details about GoEmotions can be found [here](https://arxiv.org/pdf/2005.00547.pdf)
 
